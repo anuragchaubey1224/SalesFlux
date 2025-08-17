@@ -319,8 +319,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Anurag Chaubey**
 - GitHub: [@anuragchaubey1224](https://github.com/anuragchaubey1224)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/anurag-chaubey-63202a297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- Email: 
 
 ## 🙏 Acknowledgments
 
@@ -340,5 +340,5 @@ If you encounter any issues or have questions:
 ---
 
 <div align="center">
-  <strong>Made with ❤️ for intelligent business forecasting</strong>
+  <strong>Made with ML & STREAMLIT for intelligent business forecasting</strong>
 </div>
